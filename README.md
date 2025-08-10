@@ -111,7 +111,6 @@ Day 14 – Dependency Injection Basics
 * `providedIn: 'root'` ka matlab
   **Task:** Service banao jo app me ek message return kare.
 
----
 
-Agar tum chaho to main tumhare liye **ye 14 din ka printable checklist** bana ke de sakta hoon jisme tick mark karke progress track kar sako.
-Isse tum har din motivation me rahoge.
+
+https://www.tektutorialshub.com/angular-tutorial/
